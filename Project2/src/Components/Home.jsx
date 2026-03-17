@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import resume from "../assets/Kinsey Vo Resume 2026.pdf";
+import resume from "../assets/Kinsey Vo Resume 2026.png";
 import style from "../styles/home.module.css";
 
 export default function Home() {
